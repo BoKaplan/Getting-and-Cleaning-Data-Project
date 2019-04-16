@@ -83,5 +83,3 @@ if (!file.exists(dataPath)) {
   
   #Emit data to file
   write.table(final.mean, file = file.path("tidy.txt"), row.names = FALSE, quote = FALSE)
-
-  
