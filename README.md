@@ -30,3 +30,4 @@ Good luck!
  - `README.md`: This file
  - `run_analysis.R`: R script used to build and perform analysis on the sample data
  - `tidy.txt`: Created by running `run_analysis.R`
+
