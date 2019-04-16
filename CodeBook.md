@@ -5,21 +5,21 @@ This code book describes all of the fields in the `tidy.txt` file.
 
 •	`subject` - `integer` - The ID of the test subject 
 
-	o	`1 - 30`
+	o	1 - 30
 	
 •	`activity` - `string` - The type of activity that they were performing when the measurements were taken 
 
-	o	`Walking`
+	o	Walking
 	
-	o	`Walking Upstairs`
+	o	Walking Upstairs
 	
-	o	`Walking Downstairs`
+	o	Walking Downstairs
 	
-	o	`Sitting`
+	o	Sitting
 	
-	o	`Standing`
+	o	Standing
 	
-	o	`Laying`
+	o	Laying
 
 ## Measurements
 
