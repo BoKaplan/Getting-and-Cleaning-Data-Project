@@ -1,5 +1,5 @@
 # Code Book
-This code book describes all of the fields in the `tidy.txt` file.
+Describes the fields in the `tidy.txt` file.
 
 ## Identifiers
 
