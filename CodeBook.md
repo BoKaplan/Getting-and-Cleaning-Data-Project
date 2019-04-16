@@ -3,11 +3,11 @@ Describes the fields in the `tidy.txt` file.
 
 ## Identifiers
 
-•	`subject` - `integer` - The ID of the test subject 
+•	`subject` - `integer` - ID of the test subject 
 
 	o	1 - 30
 	
-•	`activity` - `string` - The type of activity that they were performing when the measurements were taken 
+•	`activity` - `string` - Type of activity that they were performing while measurements were taken 
 
 	o	Walking
 	
@@ -23,7 +23,7 @@ Describes the fields in the `tidy.txt` file.
 
 ## Measurements
 
-These variables are all of the mean values for the corresponding measurement based on the subject and the activity. These are all of data type numeric.
+Mean values for the corresponding measurement based on the subject and the activity. These are all numeric.
 
 •	`tBodyAccmeanX`
 
